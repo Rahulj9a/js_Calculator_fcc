@@ -1,6 +1,6 @@
 # Javascript Calculator
 
-## Preview:-
+## Preview at:- https://rahulj9a.github.io/js_Calculator_fcc/
 
 ### Library used:
 
